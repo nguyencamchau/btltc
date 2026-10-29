@@ -8,7 +8,7 @@ int main(void) {
         printf("Diem khong hop le.\n");
         return 1;
     }
-    printf("Diem trung binh = %.2f\n", (a+b+c)/3.0f);
+    printf("Diem trung binh = %f\n", (a+b+c)/3);
     return 0;
 }
 
